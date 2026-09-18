@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome to my GitHub account!
+
+- I am a very curious person and I like testing new things
 
 <!--
 **gu-marra/gu-marra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
